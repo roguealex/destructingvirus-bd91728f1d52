@@ -1,0 +1,10 @@
+﻿'Challange 2.exe': Loaded 'C:\Users\Student\Desktop\Pleitez\C++\Challange 2\Debug\Challange 2.exe', Symbols loaded.
+'Challange 2.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Challange 2.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Challange 2.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Challange 2.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'Challange 2.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+'Challange 2.exe': Loaded 'C:\Windows\SysWOW64\apphelp.dll', Cannot find or open the PDB file
+'Challange 2.exe': Loaded 'ImageAtBase0x4a170000', Loading disabled by Include/Exclude setting.
+'Challange 2.exe': Unloaded 'ImageAtBase0x4a170000'
+The program '[3100] Challange 2.exe: Native' has exited with code 0 (0x0).

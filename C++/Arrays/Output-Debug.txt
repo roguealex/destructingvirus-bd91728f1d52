@@ -1,0 +1,10 @@
+﻿'array challange.exe': Loaded 'C:\Users\Student\Desktop\Pleitez\C++\array challange\Debug\array challange.exe', Symbols loaded.
+'array challange.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'array challange.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'array challange.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'array challange.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'array challange.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+'array challange.exe': Loaded 'C:\Windows\SysWOW64\apphelp.dll', Cannot find or open the PDB file
+'array challange.exe': Loaded 'ImageAtBase0x4a5b0000', Loading disabled by Include/Exclude setting.
+'array challange.exe': Unloaded 'ImageAtBase0x4a5b0000'
+The program '[5276] array challange.exe: Native' has exited with code 0 (0x0).

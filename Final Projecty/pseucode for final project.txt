@@ -1,0 +1,6 @@
+main
+{
+~input char name and stat
+~display char name and stats 
+~display goblin has appeared message
+*how do i make the combat
